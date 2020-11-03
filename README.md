@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋 My names Sergey!
 
-<!--
-**Slevkelebr/Slevkelebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here is my study projects:
 
-Here are some ideas to get you started:
+##### Lessons of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - [Java SE](https://github.com/Slevkelebr/job4j_elementary)
+   - [SQL, JDBC, IO, GC and OOD](https://github.com/Slevkelebr/job4j_design)
+   
+##### Projects:
+
+   - [Console CRUD app using JDBC](https://github.com/Slevkelebr/job4j_tracker)
+   - [Job grabber(HTML Parser using JSOP)](https://github.com/Slevkelebr/job4j_grabber)
